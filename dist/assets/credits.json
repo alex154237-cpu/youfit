@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "black-tee",
+    "file": "assets/black-tee.jpg",
+    "title": "Camiseta-negra.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Camiseta-negra.jpg",
+    "author": "Camisetas",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/81/Camiseta-negra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Redimensionada para até 600 px; sem recoloração."
+  },
+  {
+    "slug": "black-jeans",
+    "file": "assets/black-jeans.jpg",
+    "title": "Levi's 501 black.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Levi%27s_501_black.jpg",
+    "author": "Jeangagnon",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/09/Levi%27s_501_black.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Redimensionada para até 600 px; sem recoloração."
+  },
+  {
+    "slug": "black-sneakers",
+    "file": "assets/black-sneakers.jpg",
+    "title": "Converse-Classic Chuck.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Converse-Classic_Chuck.jpg",
+    "author": "Converse",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Converse-Classic_Chuck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Redimensionada para até 600 px; sem recoloração."
+  },
+  {
+    "slug": "white-tee",
+    "file": "assets/white-tee.png",
+    "title": "Transcription-wh-tshirt.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Transcription-wh-tshirt.png",
+    "author": "Schwittshot",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/21/Transcription-wh-tshirt.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Redimensionada para até 600 px; sem recoloração."
+  },
+  {
+    "slug": "blue-jeans",
+    "file": "assets/blue-jeans.jpg",
+    "title": "Acne Jeans Nye cowboybukser.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Acne_Jeans_Nye_cowboybukser.jpg",
+    "author": "Jane Mejdahl from Copenhagen, Denmark",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/04/Acne_Jeans_Nye_cowboybukser.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Redimensionada para até 600 px; sem recoloração."
+  },
+  {
+    "slug": "white-sneakers",
+    "file": "assets/white-sneakers.jpg",
+    "title": "Converse All Star High White (4649858686).jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Converse_All_Star_High_White_(4649858686).jpg",
+    "author": "Magnus D from London, United Kingdom",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Converse_All_Star_High_White_%284649858686%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Redimensionada para até 600 px; sem recoloração."
+  },
+  {
+    "slug": "red-sneakers",
+    "file": "assets/red-sneakers.jpg",
+    "title": "Converse All Star Red High (4649851394).jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Converse_All_Star_Red_High_(4649851394).jpg",
+    "author": "Magnus D from London, United Kingdom",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Converse_All_Star_Red_High_%284649851394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "changes": "Redimensionada para até 600 px; sem recoloração."
+  }
+]
